@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>42561ECA-DC47-4971-8B54-02EB268C613C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>42561ECA-DC47-4971-8B54-02EB268C613C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>BiometricAuthentication Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>668520802.21858799</real>
+			<key>timeStoppedRecording</key>
+			<real>668520802.23388803</real>
+			<key>title</key>
+			<string>BiometricAuthentication Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>42561ECA-DC47-4971-8B54-02EB268C613C</string>
+		</dict>
+		<key>B827F0DC-A0E4-4E62-9827-27518968E8F8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B827F0DC-A0E4-4E62-9827-27518968E8F8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>668520801.91386998</real>
+			<key>timeStoppedRecording</key>
+			<real>668520802.21396399</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>B827F0DC-A0E4-4E62-9827-27518968E8F8</string>
+		</dict>
+		<key>C18B0C0F-FFF1-4A07-A532-9527560D0E4B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C18B0C0F-FFF1-4A07-A532-9527560D0E4B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>BiometricAuthentication Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>668520801.919788</real>
+			<key>timeStoppedRecording</key>
+			<real>668520802.21403098</real>
+			<key>title</key>
+			<string>BiometricAuthentication Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>C18B0C0F-FFF1-4A07-A532-9527560D0E4B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
