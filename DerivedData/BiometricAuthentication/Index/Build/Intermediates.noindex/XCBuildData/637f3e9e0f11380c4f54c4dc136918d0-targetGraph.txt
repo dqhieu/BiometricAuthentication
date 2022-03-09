@@ -1,3 +1,0 @@
-Target dependency graph (2 targets)
-BiometricAuthentication in BiometricAuthentication, no dependencies
-BiometricAuthentication in BiometricAuthentication, no dependencies

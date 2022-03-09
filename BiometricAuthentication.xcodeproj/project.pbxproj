@@ -11,6 +11,8 @@
 		47282EB427D8D15F005BAF45 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47282EB327D8D15F005BAF45 /* ContentView.swift */; };
 		47282EB627D8D160005BAF45 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 47282EB527D8D160005BAF45 /* Assets.xcassets */; };
 		47282EB927D8D160005BAF45 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 47282EB827D8D160005BAF45 /* Preview Assets.xcassets */; };
+		47282EC027D8D1AA005BAF45 /* Authenticator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47282EBF27D8D1AA005BAF45 /* Authenticator.swift */; };
+		47282EC227D8D1D5005BAF45 /* AuthenticationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47282EC127D8D1D5005BAF45 /* AuthenticationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,9 @@
 		47282EB327D8D15F005BAF45 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		47282EB527D8D160005BAF45 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		47282EB827D8D160005BAF45 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		47282EBF27D8D1AA005BAF45 /* Authenticator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Authenticator.swift; sourceTree = "<group>"; };
+		47282EC127D8D1D5005BAF45 /* AuthenticationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthenticationView.swift; sourceTree = "<group>"; };
+		47282EC327D8D245005BAF45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +56,11 @@
 		47282EB027D8D15F005BAF45 /* BiometricAuthentication */ = {
 			isa = PBXGroup;
 			children = (
+				47282EC327D8D245005BAF45 /* Info.plist */,
 				47282EB127D8D15F005BAF45 /* BiometricAuthenticationApp.swift */,
 				47282EB327D8D15F005BAF45 /* ContentView.swift */,
+				47282EBF27D8D1AA005BAF45 /* Authenticator.swift */,
+				47282EC127D8D1D5005BAF45 /* AuthenticationView.swift */,
 				47282EB527D8D160005BAF45 /* Assets.xcassets */,
 				47282EB727D8D160005BAF45 /* Preview Content */,
 			);
@@ -139,6 +147,8 @@
 			files = (
 				47282EB427D8D15F005BAF45 /* ContentView.swift in Sources */,
 				47282EB227D8D15F005BAF45 /* BiometricAuthenticationApp.swift in Sources */,
+				47282EC227D8D1D5005BAF45 /* AuthenticationView.swift in Sources */,
+				47282EC027D8D1AA005BAF45 /* Authenticator.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -271,6 +281,8 @@
 				DEVELOPMENT_ASSET_PATHS = "\"BiometricAuthentication/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = BiometricAuthentication/Info.plist;
+				INFOPLIST_KEY_NSFaceIDUsageDescription = FaceID;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -299,6 +311,8 @@
 				DEVELOPMENT_ASSET_PATHS = "\"BiometricAuthentication/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = BiometricAuthentication/Info.plist;
+				INFOPLIST_KEY_NSFaceIDUsageDescription = FaceID;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
